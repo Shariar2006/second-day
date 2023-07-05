@@ -1,0 +1,35 @@
+*{
+    /* align-self: center; */
+    /* margin-left: 400px; */
+    /* margin-right: 400px; */
+}
+#header{
+      font-style: italic;
+    text-align: center;
+    color: darkred;
+    /* border-bottom: 3px dashed darkred; */
+    /* margin-left: 700px; */
+    /* margin-right: 700px; */
+    background-image: url('../wallpaperflare.com_wallpaper.jpg');
+    background-size: contain;
+    height: 300px;
+    width: 600px;
+    
+    
+}
+.blogl{
+    color: brown;
+}
+.blog{
+    background-color:aquamarine;
+    /* border-color: brown; */
+    border: 5px dashed brown;
+    padding: 3px;
+    width: 600px;
+}
+.list{
+    /* border:5px solid orange; */
+}
+#images{
+    inline-size: auto;
+}
